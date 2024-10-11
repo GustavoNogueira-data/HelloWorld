@@ -1,3 +1,3 @@
 # Hello, World!
 
- Primeiro projeto do cruso de Git e Github
+ Primeiro projeto do curso de Git e Github
